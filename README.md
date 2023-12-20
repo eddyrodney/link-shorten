@@ -14,9 +14,9 @@ Before you begin, make sure you have the following installed on your machine:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
-   cd url-shortener
-
+        1) git clone https://github.com/your-username/url-shortener.git
+        2) cd url-shortcode-generator`
+    ``````
 2. Copy the .env.template file to create a new .env file. all the variables are set to run in a local environment.:
 
 
