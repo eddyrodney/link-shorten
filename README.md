@@ -149,13 +149,13 @@ then encodes it into a short string using a custom alphabet. The encoding is sim
         url with id 97f7d585-8cce-4e48-b41a-9447f0f90f42 was deleted.
     ```
 
-##Notes
+## Notes
 
 Make sure to set up your environment variables in the .env file before starting the Docker container.
 
 All required packages can be installed using npm install.
 The autoLoadEntities option is set to true, allowing all entities to be created in the database once the app is running.
 
-Feel free to explore the app, create shortened URLs, and test its functionality! If you encounter any issues or have questions, please reach out to us.
+Feel free to explore the app, create shortened URLs, and test its functionality! If you encounter any issues or have questions, feel free to contact me.
 
 
